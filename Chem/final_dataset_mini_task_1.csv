@@ -1,0 +1,11 @@
+compound_name,canonicalized_smiles,inchi_key,molecular_weight,source
+Amoxicillin,,LSQZJLSUYDQPKJ-NJBDSQKTSA-N,365.4,PubChem
+Prednisone,,XOFYZVNMUHMLCC-ZPOLXVRWSA-N,358.4,PubChem
+Rosuvastatin,,BPRHUIZQVSMCRT-VEUZHWNKSA-N,481.5,PubChem
+Ciprofloxacin,,MYSWGUAQZAJSOK-UHFFFAOYSA-N,331.34,PubChem
+Ibuprofen,,HEFNNWSXXWATRW-UHFFFAOYSA-N,206.28,PubChem
+Aspirin,,BSYNRYMUTXBXSQ-UHFFFAOYSA-N,180.16,PubChem
+Metformin,,XZWYZXLIPXDOLR-UHFFFAOYSA-N,129.16,PubChem
+Omeprazole,,SUBDBMMJDZJVOS-UHFFFAOYSA-N,345.4,PubChem
+Paracetamol,,RZVAJINKPMORJF-UHFFFAOYSA-N,151.16,PubChem
+Simvastatin,,,,PubChem
