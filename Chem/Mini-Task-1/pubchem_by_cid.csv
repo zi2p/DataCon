@@ -1,0 +1,21 @@
+compound_name,CID,canonical_smiles,isomeric_smiles,inchi_key,molecular_weight,iupac_name,Error
+Aspirin,2244.0,,,BSYNRYMUTXBXSQ-UHFFFAOYSA-N,180.16,2-acetyloxybenzoic acid,
+Paracetamol,1983.0,,,RZVAJINKPMORJF-UHFFFAOYSA-N,151.16,N-(4-hydroxyphenyl)acetamide,
+Ibuprofen,3672.0,,,HEFNNWSXXWATRW-UHFFFAOYSA-N,206.28,2-[4-(2-methylpropyl)phenyl]propanoic acid,
+Amoxicillin,33613.0,,,LSQZJLSUYDQPKJ-NJBDSQKTSA-N,365.4,"(2S,5R,6R)-6-[[(2R)-2-amino-2-(4-hydroxyphenyl)acetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",
+Ciprofloxacin,2764.0,,,MYSWGUAQZAJSOK-UHFFFAOYSA-N,331.34,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,
+Metformin,4091.0,,,XZWYZXLIPXDOLR-UHFFFAOYSA-N,129.16,"3-(diaminomethylidene)-1,1-dimethylguanidine",
+Omeprazole,4594.0,,,,,,'PUGREST.ServerBusy'
+Simvastatin,54454.0,,,RYMZZMVNJRMUDD-HGQWONQESA-N,418.6,"[(1S,3R,7S,8S,8aR)-8-[2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] 2,2-dimethylbutanoate",
+Losartan,3961.0,,,,,,'PUGREST.ServerBusy'
+Lisinopril,5362119.0,,,RLAWWYSOJDYHDC-BZSNNMDCSA-N,405.5,(2S)-1-[(2S)-6-amino-2-[[(1S)-1-carboxy-3-phenylpropyl]amino]hexanoyl]pyrrolidine-2-carboxylic acid,
+Atorvastatin,60823.0,,,XUKUURHRXDUEBC-KAYWLYCHSA-N,558.6,"(3R,5R)-7-[2-(4-fluorophenyl)-3-phenyl-4-(phenylcarbamoyl)-5-propan-2-ylpyrrol-1-yl]-3,5-dihydroxyheptanoic acid",
+Salbutamol,2083.0,,,NDAUXUAQIAJITI-UHFFFAOYSA-N,239.31,4-[2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol,
+Furosemide,3440.0,,,ZZUFCTLCJUWOSV-UHFFFAOYSA-N,330.74,4-chloro-2-(furan-2-ylmethylamino)-5-sulfamoylbenzoic acid,
+Levothyroxine,,,,,,,'PUGREST.ServerBusy'
+Metoprolol,4171.0,,,IUBSYMUCCVWXPE-UHFFFAOYSA-N,267.36,1-[4-(2-methoxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol,
+Pantoprazole,4679.0,,,IQPSEEYGBUAQFF-UHFFFAOYSA-N,383.4,"6-(difluoromethoxy)-2-[(3,4-dimethoxypyridin-2-yl)methylsulfinyl]-1H-benzimidazole",
+Dexamethasone,5743.0,,,UREBDLICKHMUKA-CXSFZGCWSA-N,392.5,"(8S,9R,10S,11S,13S,14S,16R,17R)-9-fluoro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one",
+Clopidogrel,60606.0,,,,,,'PUGREST.ServerBusy'
+Prednisone,,,,,,,'PUGREST.ServerBusy'
+Rosuvastatin,446157.0,,,BPRHUIZQVSMCRT-VEUZHWNKSA-N,481.5,"(E,3R,5S)-7-[4-(4-fluorophenyl)-2-[methyl(methylsulfonyl)amino]-6-propan-2-ylpyrimidin-5-yl]-3,5-dihydroxyhept-6-enoic acid",
